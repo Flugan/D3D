@@ -1,0 +1,120 @@
+    error parsing shader> Error parsing resource declaration: // cVSScene                          cbuffer      NA          NA            cb2 
+    error parsing shader> Error parsing resource declaration: // cVSObject                         cbuffer      NA          NA            cb5 
+    error parsing shader> Error parsing resource declaration: // VSBones                           cbuffer      NA          NA            cb6 
+    error parsing shader> 3 Error parsing buffer offset: cb5[8].x
+    error parsing shader> Missing constant buffer name: cb6[r0.w+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[0].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[3].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[4].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[5].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[6].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[7].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[0].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[0].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[8].w
+    error parsing shader> Error parsing resource declaration: // cVSSystem                         cbuffer      NA          NA            cb0 
+    error parsing shader> 3 Error parsing buffer offset: cb0[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb0[2].zwzw
+    error parsing shader> Error parsing resource declaration: // cVSScene                          cbuffer      NA          NA            cb2 
+    error parsing shader> Error parsing resource declaration: // cVSObject                         cbuffer      NA          NA            cb5 
+    error parsing shader> Error parsing resource declaration: // VSBones                           cbuffer      NA          NA            cb6 
+    error parsing shader> 3 Error parsing buffer offset: cb5[8].x
+    error parsing shader> Missing constant buffer name: cb6[r4.x+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r4.x+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r4.x+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r3.x+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r3.x+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r3.x+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r3.x+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r3.x+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r3.x+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r3.x+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r3.x+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r3.x+2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[0].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[3].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[4].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[5].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[6].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[7].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[0].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[0].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[8].w
+    error parsing shader> Error parsing resource declaration: // cVSScene                          cbuffer      NA          NA            cb2 
+    error parsing shader> Error parsing resource declaration: // cVSObject                         cbuffer      NA          NA            cb5 
+    error parsing shader> Error parsing resource declaration: // VSBones                           cbuffer      NA          NA            cb6 
+    error parsing shader> 3 Error parsing buffer offset: cb5[8].x
+    error parsing shader> Missing constant buffer name: cb6[r0.w+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r0.w+2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[0].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[3].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[4].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[5].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[6].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[7].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[0].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[0].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[8].w
+    error parsing shader> Error parsing resource declaration: // cVSScene                          cbuffer      NA          NA            cb2 
+    error parsing shader> Error parsing resource declaration: // cVSObject                         cbuffer      NA          NA            cb5 
+    error parsing shader> Error parsing resource declaration: // VSBones                           cbuffer      NA          NA            cb6 
+    error parsing shader> 3 Error parsing buffer offset: cb5[8].x
+    error parsing shader> Missing constant buffer name: cb6[r2.x+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r2.x+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r2.x+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r1.x+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r1.x+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r1.x+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r1.x+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r1.x+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r1.x+2].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r1.x+0].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r1.x+1].xyzw
+    error parsing shader> Missing constant buffer name: cb6[r1.x+2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[0].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[1].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[2].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb5[3].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[4].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[5].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[6].xyzw
+    error parsing shader> 3 Error parsing buffer offset: cb2[7].xyzw
